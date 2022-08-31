@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+}
+.brinquedos img {
+    width: 100%;
+}
+html {
+    scroll-behavior: smooth;
+}
+#propaganda {
+    text-align: center;
+    background-color: ghostwhite;
+    padding: 5px;
+}
+#page1 {
+    color: white;
+    background-color: black;  
+}
+#consulta {
+    width: fit-content;
+    margin: auto;
+}
